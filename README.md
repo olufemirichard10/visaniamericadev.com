@@ -1,1 +1,1 @@
-visaniamerica.com is a training platform
+visaniamericadev.com is a training platform
